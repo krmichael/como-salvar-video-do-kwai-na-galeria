@@ -1,14 +1,14 @@
-# 📥 Como salvar video do Kwai na galeria no Android (sem marca d’água)
+# 📥 Como salvar video do Kwai sem marca d'água na galeria
 
 [![Play Store](https://img.shields.io/badge/Download-Play%20Store-green?style=for-the-badge\&logo=googleplay)](https://play.google.com/store/apps/details?id=com.kwai.video.downloader.nowatermark)
 [![Stars](https://img.shields.io/github/stars/krmichael/kwai-video-downloader?style=for-the-badge)](https://github.com/krmichael/kwai-video-downloader)
 
-Se você quer saber **como salvar video do Kwai na galeria**, o **Kwibo** é a forma mais simples e eficiente.
+Se você quer saber **como baixar e salvar vídeos em HD do Kwai sem marca d'água na galeria**, o **Kwibo** é a forma mais simples e eficiente.
 Com ele, você salva vídeos do Kwai direto no seu celular, em **alta qualidade** e **sem marca d’água**, sem precisar fazer login.
 
 ---
 
-## 🚀 A maneira mais fácil de salvar vídeo do Kwai na galeria
+## 🚀 A maneira mais fácil de salvar vídeo Kwai sem marca d'água na galeria
 
 O **Kwibo** foi desenvolvido para quem deseja **salvar vídeo do Kwai na galeria do Android** sem complicação.
 Basta copiar ou compartilhar o link do vídeo e o download começa automaticamente.
